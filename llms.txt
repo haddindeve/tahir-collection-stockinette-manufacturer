@@ -1,0 +1,40 @@
+# Tahir Collection - Stockinette Manufacturer Web Platform
+
+> SEO-led site for a tubular stockinette manufacturer, organised by material and industrial application.
+
+Author: Muhammad Tanveer (Full-Stack AI Automation Engineer)
+Contact: mtanveertahir66@gmail.com | https://www.linkedin.com/in/muhammad-tanveer-advenno/
+Repository: https://github.com/haddindeve/tahir-collection-stockinette-manufacturer
+Source availability: implementation held in a private repository; access on request.
+
+## Summary
+A specialist textile manufacturer was invisible to the buyers searching for it. Buyers search by application - orthopaedic casting, lymphedema compression, meat processing, industrial polishing - but the site was organised around the company instead of those uses.
+
+Restructure the site around how buyers actually search: a page per material and a page per industrial application, each targeting the specific term that application's buyers use. Product imagery is named and described for the same terms rather than left as raw camera filenames.
+
+## Stack
+Backend: PHP, Frontend: Server-rendered, no build step, SEO: Application-targeted information architecture, Media: Optimised WebP imagery
+
+## Capabilities
+- Application-led information architecture
+- Material-specific product pages
+- Structured quote requests
+- Descriptive, search-visible media naming
+- Multi-language entry points
+
+## Outcomes
+- Site organised around buyer search intent rather than company structure
+- Each industrial application has a dedicated, targetable page
+
+## FAQ
+Q: What is tubular stockinette?
+A: A seamless knitted tube used under orthopaedic casts, in compression therapy, meat processing and industrial polishing.
+
+Q: Why a page per application?
+A: Buyers search by their use case, not by the manufacturer. Separate pages let each application rank for its own terms.
+
+Q: Who maintains it?
+A: Content is server-rendered PHP with shared includes, so pages can be added without a build step.
+
+Q: Is the source available?
+A: Client project - private repository.
